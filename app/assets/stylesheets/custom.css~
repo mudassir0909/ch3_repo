@@ -2,7 +2,7 @@
 width: 710px;
 }
 body {
-background-image: bg.png;
+background-image: url('bg.png');
 }
 header {
 padding-top: 20px;
